@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhdnazim
-- 👀 I’m interested in MERN stack web development.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning more about the MERN stack with Next.js.
 - 💞️ I’m looking to collaborate with MERN stack web developers to interact and share knowledge.
 - 📫 How to reach me: mhdnasimt@gmail.com
