@@ -11,115 +11,115 @@
 
 ### 🛠 Languages and Tools:
 
-<p align="center">
-  <table style="width:100%;">
+<div style="display: flex; justify-content: center;">
+  <table style="width:100%; max-width: 1200px;">
     <tr>
       <td align="center" width="20%">
         <a href="https://angular.io" target="_blank" rel="noreferrer">
-          <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/>
+          <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://angular.io" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="50" height="50"/>
+          <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="20%">
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="20%">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/>
+          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://postman.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="50" height="50"/>
+          <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="60" height="60"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="20%">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
         </a>
       </td>
       <td align="center" width="20%">
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
         </a>
       </td>
     </tr>
   </table>
-</p>
+</div>
